@@ -14,7 +14,7 @@ export default function HeaderContainer({ children }) {
         <Header.Group>
           <Header.ExternalButtonLink
             target="_blank"
-            href="https://github.com/JLowe-N/netflixclone"
+            href="https://github.com/marwaniiwael18/NetflixClone"
           >
             See Repo
           </Header.ExternalButtonLink>

@@ -35,7 +35,7 @@ export default function SignInContainer() {
 
     firebase
       .auth()
-      .signInWithEmailAndPassword("JLowe-N@test.com", "test123456")
+      .signInWithEmailAndPassword("wael-N@test.com", "test123456")
       .then(() => {
         history.push(ROUTES.BROWSE)
       })

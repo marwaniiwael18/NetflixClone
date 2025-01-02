@@ -48,7 +48,7 @@ export default function Profile() {
     setNewDisplayName(null)
   }
 
-  const isDemoUser = user.displayName === "Justin Lowen"
+  const isDemoUser = user.displayName === "Marwani Wael"
 
   return (
     <>
@@ -64,7 +64,7 @@ export default function Profile() {
           <Header.Group>
             <Header.ExternalButtonLink
               target="_blank"
-              href="https://github.com/JLowe-N/netflixclone"
+              href="https://github.com/marwaniiwael18/NetflixClone"
             >
               See Repo
             </Header.ExternalButtonLink>

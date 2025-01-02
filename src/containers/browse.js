@@ -68,7 +68,7 @@ export default function BrowseContainer({ slides }) {
             </Header.Link>
             <Header.ExternalButtonLink
               target="_blank"
-              href="https://github.com/JLowe-N/netflixclone"
+              href="https://github.com/marwaniiwael18/NetflixClone"
             >
               See Repo
             </Header.ExternalButtonLink>
