@@ -30,3 +30,4 @@ Advanced Configuration: Tailor advanced settings to meet specific project requir
 Troubleshooting Minification Errors: Resolve issues when npm run build fails.<br /> Learn more.
 
 Building and deploying with ease! 💻✨
+![Canva](https://github.com/user-attachments/assets/ca1f4788-9a72-47e0-9729-ce213586cda0)
